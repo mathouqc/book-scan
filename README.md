@@ -8,3 +8,5 @@ The project uses openCV, ...
 Algorithms currently implemented to remove page curvature:
 - A
 - B
+
+Eventually, it would be nice to use this in a GUI.
