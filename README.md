@@ -10,3 +10,10 @@ Algorithms currently implemented to remove page curvature:
 - B
 
 Eventually, it would be nice to use this in a GUI.
+
+Related:
+https://github.com/taeho-kil/Document-Image-Dewarping/
+https://github.com/ocrmypdf/OCRmyPDF
+https://github.com/phonhay103/dewarp
+https://github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation
+https://github.com/fh2019ustc/doctr
